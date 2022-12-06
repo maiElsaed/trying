@@ -1,0 +1,199 @@
+nav{
+	height:60px;
+	width:700px;
+	background-color:#fff;
+	margin-top:-8px;
+	 
+	 border:3px solid #fff;
+	 position:fixed; 
+}
+.first_a{
+  letter-spacing:5px;  
+  text-transform:capitalize;
+  padding:10px 22px;
+}
+.upper_a
+  {
+	letter-spacing:5px;
+	float:right;
+	text-decoration:none;
+	color:black;
+  }
+
+  }  
+  .cleard
+  {
+	clear:right;  
+	  
+  }
+  .header_1
+    {
+	  width:700px;
+	  height:650px;
+	  /*background-color:red;*/
+    }
+  .humborgare{
+	  width:700px;
+	  height:600px;
+  }
+ .header_p
+ {
+	letter-spacing:7px;
+    text-transform:capitalize;	
+	color:rgba(255, 127, 0, 20); 
+	padding-bottom:50px;
+ }
+ .section_1
+ {
+	 height:700px;
+	width:700px;
+	margin:50px 20px; 
+ }
+ .selection_img
+ {
+	width:300px;
+    height:	400px;
+	margin:10px; 
+	 
+ }
+ .section_div
+ {
+	float:right;
+    width:320px;
+	height:700px;
+	
+ } 
+ .section_h
+ {
+		
+    text-transform:capitalize;
+    font-weight:bold;
+    	
+	text-align:center; 
+	 
+ }
+ .section_p1
+ {
+	 text-indent:20px;
+	 text-transform:capitalize;
+	 letter-spacing:5px;
+	 line-height:4px;
+	
+ }
+ .section2
+ {
+	 height:1500px;
+	width:700px;
+	margin:50px 20px; 
+ }
+ .section2_h1
+ {
+	text-transform :capitalize;
+	text-align:center;
+	letter-spacing:5px;
+	padding:40px;
+	font-size:30px;
+	 
+ }
+ .section2_h2
+ {
+	 text-transform:capitalize;
+	 margin:20px;
+	 letter-spacing:5px;
+ }
+ .section2_p2
+ {
+	 margin:20px 0px 50px 20px;
+ }
+ .section2_img
+ {
+	 
+	margin-left:30px; 
+	
+	 
+ }
+ .section_3
+ {
+	 height:600px;
+	width:700px;
+	margin:50px 20px; 
+	 
+ }
+ .section3_h
+ {
+  margin:70px 20px 50px;
+  text-transform:capitalize;
+  letter-spacing:3px;
+  
+	 
+ }
+ .section3_h2
+ {
+	 
+	color:#607d8b; 
+	 
+ }
+ #name
+ { 
+	 display:block;
+	 width:600px;
+	 border:none;
+	 border-bottom:2px solid #ccc;
+	 padding:5px;
+	 height:30px;
+	 margin:15px;
+ } 
+ #date{
+	  display:block;
+	 width:600px;
+	 border:none;
+	 border-bottom:2px solid #ccc;
+	 padding:5px;
+	 height:30px;
+	 margin:15px;
+	 
+ }
+ #text_area
+ {
+	 
+	 	  display:block;
+	 width:600px;
+	 border:none;
+	 border-bottom:2px solid #ccc;
+	 padding:5px;
+	 height:30px;
+	 margin:15px;
+	 
+ }
+ #style_button
+ {
+	 display:block;
+	 width:150px;
+	 border:none;
+	 /* border-bottom:2px solid #ccc; */
+	 padding:5px;
+	 height:48px;
+	 margin:3px;
+	 
+ }
+ .end
+ {
+	height:150px;
+	width:700px; 
+	background-color:#f1f1f1; 
+ }
+ .end_p
+ {
+	display:inline;
+    text-transform:capitalize;
+    letter-spacing:2px;	
+ }
+ footer above
+ {
+	color:red; 
+ }
+ .cover
+ {
+	 
+	padding:65px 250px;
+ }
